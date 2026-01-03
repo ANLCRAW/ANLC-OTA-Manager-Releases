@@ -1,2 +1,25 @@
-# ANLC-OTA-Manager-Releases
-Prebuilt installers for the ANLC OTA Manager (Windows, macOS, Linux)
+# ANLC OTA Manager – Downloads
+
+ANLC OTA Manager is a desktop application for discovering and updating
+ANLC luminaires over the network.
+
+## Downloads
+
+Go to **Releases** and download the version for your system:
+
+- Windows: `.exe`
+- macOS: `.dmg`
+- Linux: `.AppImage`
+
+## Supported Devices
+- ANLC-32
+- ANLC-64
+
+! Do not disconnect devices during firmware updates.
+
+## License
+
+ANLC OTA Manager is proprietary software.
+All rights reserved.
+
+For licensing or commercial use inquiries, contact ANLC.
