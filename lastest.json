@@ -2,19 +2,19 @@
   "name": "ANLC OTA Manager",
   "version": "1.0.0",
   "published": "2026-01-03",
-  "notes": "Stable release with AP mode support, firmware & filesystem OTA, and improved device detection.",
+  "notes": "Initial public release with device discovery and OTA updates.",
   "downloads": {
     "windows": {
       "type": "exe",
-      "url": "https://github.com/ANLCRAW/ANLC-OTA-Manager/releases/download/v1.0.0/ANLC-OTA-Manager-Setup-1.0.0.exe"
+      "url": "https://raw.githubusercontent.com/ANLCRAW/ANLC-OTA-Manager-Releases/main/windows/ANLC%20OTA%20Manager-1.0.0.exe"
     },
     "macos": {
       "type": "dmg",
-      "url": "https://github.com/ANLCRAW/ANLC-OTA-Manager/releases/download/v1.0.0/ANLC-OTA-Manager-1.0.0.dmg"
+      "url": "https://raw.githubusercontent.com/ANLCRAW/ANLC-OTA-Manager-Releases/main/mac/ANLC%20OTA%20Manager-1.0.0.dmg"
     },
     "linux": {
       "type": "AppImage",
-      "url": "https://github.com/ANLCRAW/ANLC-OTA-Manager/releases/download/v1.0.0/ANLC-OTA-Manager-1.0.0.AppImage"
+      "url": "https://raw.githubusercontent.com/ANLCRAW/ANLC-OTA-Manager-Releases/main/linux/ANLC%20OTA%20Manager-1.0.0.AppImage"
     }
   }
 }
