@@ -12,7 +12,7 @@ Go to **Releases** and download the version for your system:
 - Linux: `.AppImage`
 
 ## Supported Devices
-- ANLC-100/64
+- ANLC RDM-100/64
 
 ! Do not disconnect devices during firmware updates.
 
