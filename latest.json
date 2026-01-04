@@ -1,13 +1,14 @@
-{
-  "version": "1.0.1",
+  {
+  "version": "1.0.0",
   "releaseDate": "2026-01-04",
   "downloads": {
-    "windows": "https://github.com/ANLCRAW/ANLC-OTA-Manager-Releases/raw/main/releases/v1.0.1/ANLC-OTA-Manager-Setup.exe",
-    "mac": "https://github.com/ANLCRAW/ANLC-OTA-Manager-Releases/raw/main/releases/v1.0.1/",
-    "linux": "https://github.com/ANLCRAW/ANLC-OTA-Manager-Releases/raw/main/releases/v1.0.1/ANLC-OTA-Manager-1.0.1.AppImage"
+      "windows": "https://github.com/ANLCRAW/ANLC-OTA-Manager-Releases/raw/main/releases/v1.0.0/ANLC-OTA-Manager-Setup.exe",
+      "mac": "https://github.com/ANLCRAW/ANLC-OTA-Manager-Releases/raw/main/releases/v1.0.0/ANLC-OTA-Manager-1.0.0.dmg",
+      "linux": "https://github.com/ANLCRAW/ANLC-OTA-Manager-Releases/raw/main/releases/v1.0.0/ANLC-OTA-Manager-1.0.0.AppImage"
   },
   "checksum": {
-    "algorithm": "sha256",
-    "file": "checksums.txt"
+      "algorithm": "sha256",
+      "file": "checksums.txt"
   }
-}
+  }
+  EOF
