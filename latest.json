@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "releaseDate": "2026-01-04",
+  "notes": "See release notes for details",
+  "downloads": {
+    "windows": "https://github.com/ANLCRAW/ANLC-OTA-Manager-Releases/releases/download/v1.0.0/ANLC-OTA-Manager-Setup.exe",
+    "mac": "https://github.com/ANLCRAW/ANLC-OTA-Manager-Releases/releases/download/v1.0.0/ANLC-OTA-Manager-1.0.0-arm64.dmg",
+    "linux": "https://github.com/ANLCRAW/ANLC-OTA-Manager-Releases/releases/download/v1.0.0/ANLC-OTA-Manager-1.0.0.AppImage"
+  }
+}
