@@ -12,8 +12,7 @@ Go to **Releases** and download the version for your system:
 - Linux: `.AppImage`
 
 ## Supported Devices
-- ANLC-32
-- ANLC-64
+- ANLC-100/64
 
 ! Do not disconnect devices during firmware updates.
 
