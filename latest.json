@@ -1,14 +1,23 @@
 {
-  "version": "1.0.1",
-  "releaseDate": "2026-01-04",
+  "version": "1.0.2",
+  "releaseDate": "2026-01-05",
   "notes": "See release notes for details",
   "checksum": {
     "algorithm": "sha256",
-    "url": "https://github.com/ANLCRAW/ANLC-OTA-Manager-Releases/releases/download/v1.0.1/checksums.txt"
+    "url": "https://github.com/ANLCRAW/ANLC-OTA-Manager-Releases/releases/download/v1.0.2/checksums.txt"
   },
   "downloads": {
-    "windows": "https://github.com/ANLCRAW/ANLC-OTA-Manager-Releases/releases/download/v1.0.1/ANLC-OTA-Manager-Setup.exe",
-    "mac": "https://github.com/ANLCRAW/ANLC-OTA-Manager-Releases/releases/download/v1.0.1/ANLC-OTA-Manager-1.0.1.dmg",
-    "linux": "https://github.com/ANLCRAW/ANLC-OTA-Manager-Releases/releases/download/v1.0.1/ANLC-OTA-Manager-1.0.1.AppImage"
+    "windows": {
+      "url": "https://github.com/ANLCRAW/ANLC-OTA-Manager-Releases/releases/download/v1.0.2/ANLC-OTA-Manager-Setup.exe",
+      "sha256": "194ab688ff8c2fdfbdd23820b5a5123bc92cb1d1e1d1dcba8c5c4f2f8ed039b4"
+    },
+    "mac": {
+      "url": "https://github.com/ANLCRAW/ANLC-OTA-Manager-Releases/releases/download/v1.0.2/ANLC-OTA-Manager-1.0.2.dmg",
+      "sha256": "9425caf721018d083c78cce7bb4293d00142e751f114f3c9e7d61f614ed30b2d"
+    },
+    "linux": {
+      "url": "https://github.com/ANLCRAW/ANLC-OTA-Manager-Releases/releases/download/v1.0.2/ANLC-OTA-Manager-1.0.2.AppImage",
+      "sha256": "3d5ea881e92e1f79eb4b4e648ea3bc34d77e03abe82a2aa54a27bdfcd699d0c4"
+    }
   }
 }
